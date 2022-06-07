@@ -12,4 +12,4 @@
 ![image](https://user-images.githubusercontent.com/96896665/172497740-952e3ac5-585b-4991-a5f8-4ac727decf80.png)
 
 ## 결과 Gif
-![image](https://user-images.githubusercontent.com/96896665/172497812-b86bae48-8171-4fba-b66c-d97bd7bd1ece.png)
+![00270_MQQ_test_AVG_final_](https://user-images.githubusercontent.com/96896665/172498019-5bb1395c-f8a7-4ee4-ad86-484a6769e593.gif)
