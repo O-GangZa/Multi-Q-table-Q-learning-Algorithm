@@ -20,7 +20,7 @@
 
 ## [A,B,F,G,H,I,K] EPI_270 결과 gif  
 ![00270_MQQ_test_AVG_final_](https://user-images.githubusercontent.com/96896665/172498019-5bb1395c-f8a7-4ee4-ad86-484a6769e593.gif)
->                     테스트 결과 :  전체 EPI 1225개 평균 스텝 수 : 44.30342577487765
+>        테스트 결과 :  전체 EPI 1225개 평균 스텝 수 : 44.30342577487765
 ## MQQ, PQ 장단점
 ![image](https://user-images.githubusercontent.com/44988108/172670671-17cf4667-544a-4067-adc8-e63c1c57dd45.png)
 
