@@ -1,6 +1,8 @@
 # Multi-Q-table-Q-learning-Algorithm
 오강자 강화학습 프로젝트 MQQ 레포
-
+##Files
+* data
+** ㄹㄹㄹㄹ
 ## MQQ 알고리즘 플로우차트
 ![image](https://user-images.githubusercontent.com/96896665/172497430-34378603-bc0b-4d27-9241-9ea80e31e074.png)
 ![image](https://user-images.githubusercontent.com/96896665/172497497-582f1554-83d9-477c-b75c-ee6eac2d26dd.png)
