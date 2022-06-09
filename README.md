@@ -1,7 +1,4 @@
 # Multi-Q-table-Q-learning-Algorithm
-<br>
-
-# Repository
 * data/factory_order_test.csv : test 데이터
 * data/factory_order_train.csv : train 데이터
 * data/obstacles.csv : 장애물 위치 좌표
@@ -11,16 +8,27 @@
 
 
 # MQQ 아이디어
+MQQ는 Q-learning으로 기업 과제를 해결하기 위한 창작의 고뇌를 줄기던 중 번뜩 떠오른 아이디어입니다.   
+
+아이디어는 현재 위치에서 아이템 위치까지 exploration을 하고,   
+수렴에 도착했을 때 exploit을 하는 과정을 item 개수만큼 반복하면 해결할 수 있다고 생각했습니다.   
+
+멘토링 과정에 이 아이디어를 말씀드리자 비슷한 논문인 MQQ를 주셨습니다. 🙇‍♂️ ~~(사람 생각하는건 다 비슷하구나...)~~   
+참고할 논문이 있어서, 다른 논문들보다 비교적 더 원활하게 MQQ를 개발했습니다.
+
 ![image](https://user-images.githubusercontent.com/44988108/172668794-c398c569-276a-4fb4-9807-1672f4000fed.png)
 
 ![image](https://user-images.githubusercontent.com/44988108/172668794-c398c569-276a-4fb4-9807-1672f4000fed.png)
 
 ## Q-table 시각화
-![image](https://user-images.githubusercontent.com/96896665/172497740-952e3ac5-585b-4991-a5f8-4ac727decf80.png)
+![image](https://user-images.githubusercontent.com/41228208/172742632-046ad4db-a614-4b24-9987-ae786e4a37d0.png)
+
+MQQ를 구현하면서 Q-learning을 통한 Q-table이 제대로 보여지는지 확인하기 위해 Q-table을 시각화하여 결과를 확인했습니다.
 
 ## [A,B,F,G,H,I,K] EPI_270 결과 gif  
 ![00270_MQQ_test_AVG_final_](https://user-images.githubusercontent.com/96896665/172498019-5bb1395c-f8a7-4ee4-ad86-484a6769e593.gif)
 >        테스트 결과 :  전체 EPI 1225개 평균 스텝 수 : 44.30342577487765
+
 ## MQQ, PQ 장단점
 ![image](https://user-images.githubusercontent.com/44988108/172670671-17cf4667-544a-4067-adc8-e63c1c57dd45.png)
 
